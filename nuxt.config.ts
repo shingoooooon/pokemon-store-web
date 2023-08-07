@@ -4,6 +4,6 @@ import { app } from "./config";
 export default defineNuxtConfig({
   ssr: false,
   devtools: { enabled: true },
-  modules: ["@nuxtjs/tailwindcss"],
+  modules: ["@nuxtjs/tailwindcss", "@nuxt/pinia"],
   app,
 });
