@@ -1,9 +1,9 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div>
+  <div class="m-8">
     <common-app-bar></common-app-bar>
-    <div>
+    <div class="wrapper">
       <slot />
     </div>
   </div>

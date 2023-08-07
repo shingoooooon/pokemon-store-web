@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    <h2>cart page</h2>
+    <h2 class="text-white">cart page</h2>
   </div>
 </template>
 
