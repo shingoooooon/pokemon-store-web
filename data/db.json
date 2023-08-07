@@ -1,0 +1,88 @@
+{
+  "pokemons": [
+    {
+      "name": "Lava Potion",
+      "price": 20,
+      "description": "Gain heat resistance for 3 minutes.",
+      "img": "/img/blastoise.png",
+      "id": 1
+    },
+    {
+      "name": "Poison Hammer",
+      "price": 100,
+      "description": "Hammer infused with posion gem magic.",
+      "img": "/img/blastoise.png",
+      "id": 2
+    },
+    {
+      "name": "Sun Shield",
+      "price": 50,
+      "description": "Shield passed down the by tribe of Ancients.",
+      "img": "/img/blastoise.png",
+      "id": 3
+    },
+    {
+      "name": "Ring of Fortitude",
+      "price": 75,
+      "description": "Casts a magic protection barrier.",
+      "img": "/img/blastoise.png",
+      "id": 4
+    },
+    {
+      "name": "Crystal Sword",
+      "price": 120,
+      "description": "Sharp sword the can cut through armour.",
+      "img": "/img/blastoise.png",
+      "id": 5
+    },
+    {
+      "name": "Summoning Book",
+      "price": 200,
+      "description": "Summon the undead to aid in battle.",
+      "img": "/img/blastoise.png",
+      "id": 6
+    },
+    {
+      "name": "Healing Crystal",
+      "price": 30,
+      "description": "Makes the owner immune to poison.",
+      "img": "/img/blastoise.png",
+      "id": 7
+    },
+    {
+      "name": "Healing Herbs",
+      "price": 30,
+      "description": "Restores user back to full health.",
+      "img": "/img/blastoise.png",
+      "id": 8
+    },
+    {
+      "name": "Flaming Axe",
+      "price": 150,
+      "description": "Attack foes with burning energy.",
+      "img": "/img/blastoise.png",
+      "id": 9
+    },
+    {
+      "name": "Exploding Gem",
+      "price": 50,
+      "description": "Throw at the ground to explode.",
+      "img": "/img/blastoise.png",
+      "id": 10
+    },
+    {
+      "name": "Mysterious Key",
+      "price": 500,
+      "description": "Opens a chest sealed by darkness.",
+      "img": "/img/blastoise.png",
+      "id": 11
+    },
+    {
+      "name": "Golden Rock",
+      "price": 100,
+      "description": "Used to trade with the mountain dwarves.",
+      "img": "/img/blastoise.png",
+      "id": 12
+    }
+  ]
+}
