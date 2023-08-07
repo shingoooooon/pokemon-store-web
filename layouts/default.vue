@@ -1,7 +1,12 @@
 <script setup lang="ts"></script>
 
 <template>
-  <app-bar></app-bar>
+  <div>
+    <common-app-bar></common-app-bar>
+    <div>
+      <slot />
+    </div>
+  </div>
 </template>
 
 <style scoped></style>
