@@ -1,0 +1,11 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+body {
+  @apply bg-dark;
+}
+
+.wrapper {
+  @apply my-8 max-w-5xl mx-auto;
+}
