@@ -1,6 +1,6 @@
 export const app = {
   head: {
-    title: "Adventure Store",
+    title: "Pokemon Store",
     link: [
       {
         rel: "stylesheet",
