@@ -1,88 +1,120 @@
 {
+  "cart": [
+    {
+      "name": "Blastoise",
+      "price": 20,
+      "description": "Gain heat resistance for 3 minutes.",
+      "img": "/img/blastoise.png",
+      "id": 1,
+      "quantity": 1
+    },
+    {
+      "name": "Dragonair",
+      "price": 200,
+      "description": "Summon the undead to aid in battle.",
+      "img": "/img/dragonair.png",
+      "id": 6,
+      "quantity": 1
+    }
+  ],
   "pokemons": [
     {
-      "name": "Lava Potion",
+      "name": "Blastoise",
       "price": 20,
       "description": "Gain heat resistance for 3 minutes.",
       "img": "/img/blastoise.png",
       "id": 1
     },
     {
-      "name": "Poison Hammer",
+      "name": "Charmander",
       "price": 100,
       "description": "Hammer infused with posion gem magic.",
-      "img": "/img/blastoise.png",
+      "img": "/img/charmander.png",
       "id": 2
     },
     {
-      "name": "Sun Shield",
+      "name": "Gengar",
       "price": 50,
       "description": "Shield passed down the by tribe of Ancients.",
-      "img": "/img/blastoise.png",
+      "img": "/img/gengar.png",
       "id": 3
     },
     {
-      "name": "Ring of Fortitude",
+      "name": "Bellsprout",
       "price": 75,
       "description": "Casts a magic protection barrier.",
-      "img": "/img/blastoise.png",
+      "img": "/img/bellsprout.png",
       "id": 4
     },
     {
-      "name": "Crystal Sword",
+      "name": "Bulbasaur",
       "price": 120,
       "description": "Sharp sword the can cut through armour.",
-      "img": "/img/blastoise.png",
+      "img": "/img/bulbasaur.png",
       "id": 5
     },
     {
-      "name": "Summoning Book",
+      "name": "Dragonair",
       "price": 200,
       "description": "Summon the undead to aid in battle.",
-      "img": "/img/blastoise.png",
+      "img": "/img/dragonair.png",
       "id": 6
     },
     {
-      "name": "Healing Crystal",
+      "name": "Ivysaur",
       "price": 30,
       "description": "Makes the owner immune to poison.",
-      "img": "/img/blastoise.png",
+      "img": "/img/ivysaur.png",
       "id": 7
     },
     {
-      "name": "Healing Herbs",
+      "name": "Mew",
       "price": 30,
       "description": "Restores user back to full health.",
-      "img": "/img/blastoise.png",
+      "img": "/img/mew.png",
       "id": 8
     },
     {
-      "name": "Flaming Axe",
+      "name": "Pidgey",
       "price": 150,
       "description": "Attack foes with burning energy.",
-      "img": "/img/blastoise.png",
+      "img": "/img/pidgey.png",
       "id": 9
     },
     {
-      "name": "Exploding Gem",
+      "name": "Sandshrew",
       "price": 50,
       "description": "Throw at the ground to explode.",
-      "img": "/img/blastoise.png",
+      "img": "/img/sandshrew.png",
       "id": 10
     },
     {
-      "name": "Mysterious Key",
+      "name": "Charmeleon",
       "price": 500,
       "description": "Opens a chest sealed by darkness.",
-      "img": "/img/blastoise.png",
+      "img": "/img/charmeleon.png",
       "id": 11
     },
     {
-      "name": "Golden Rock",
+      "name": "Mewtwo",
       "price": 100,
       "description": "Used to trade with the mountain dwarves.",
-      "img": "/img/blastoise.png",
+      "img": "/img/mewtwo.png",
       "id": 12
+    },
+    {
+      "name": "Squirtle",
+      "price": 100,
+      "description": "Used to trade with the mountain dwarves.",
+      "img": "/img/squirtle.png",
+      "id": 13
+    },
+    {
+      "name": "Venusaur",
+      "price": 100,
+      "description": "Used to trade with the mountain dwarves.",
+      "img": "/img/venusaur.png",
+      "id": 14
     }
   ]
 }
