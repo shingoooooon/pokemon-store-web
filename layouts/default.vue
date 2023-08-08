@@ -1,4 +1,10 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import { useCartStore } from "@/stores/cartStore";
+
+const cartStore = useCartStore();
+
+cartStore.getCart();
+</script>
 
 <template>
   <div class="m-8">
