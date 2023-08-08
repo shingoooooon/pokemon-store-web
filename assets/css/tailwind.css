@@ -17,3 +17,7 @@ body {
 .btn {
   @apply bg-secondary py-1 px-2 rounded-sm text-lg;
 }
+
+.img {
+  @apply border-2 border-amber-300 rounded;
+}
